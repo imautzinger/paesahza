@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eesuchaep.chriscooning.com/sitemap.xml
